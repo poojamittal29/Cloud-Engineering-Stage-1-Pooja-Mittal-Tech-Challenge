@@ -1,31 +1,3 @@
-As part of migrating servers from On-Praem to cloud we need to analyse all servers by collecting certain details.
-
-This script is mainly used for getting below details from server  : -
-
-a) OS Version
-
-b) RAM Size
-
-c) To check whether the server is virtual or physical
-
-d) Number of CPU Cores
-
-e) Local group Administrators
-
-f) Drive details
-
-g) Installed Apps and softwares in servers
-
-h) IIS Details
-
-i) IP Address
-
-j) NIC Details
-
-
-How to use the script ?
-
-
 a) Login to the server for which you need to collect details
 
 b) Open Windows Powershell ISE in administrator mode
